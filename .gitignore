@@ -1,2 +1,5 @@
 
 .ipynb_checkpoints/thyroid_asp-checkpoint.ipynb
+data/
+models/
+wandb/
