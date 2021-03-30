@@ -1,5 +1,5 @@
-Hospital,PT Clas,Ordered Time,Procedure Begin Time,Procedure End Time,Procedure Sign-off  Time,Modality,Procedure #,Procedure Name,Mode Grouping,Accession,MRN,Patient Account #,Health Card +Version,DOB,Age at Procedure Date,P FEE,T Fee,Sign off Rad,Exam Result,Date
-BCH,Outpatient,23/02/2021 9:09,23/02/2021 11:30,23/02/2021 11:30,23/02/2021 11:37,US,7893.0,ASPIRATION - THYROID,US,16851023.0,N000861996,0NX065136/20,5138869184-VF,04/10/1956,65.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+Accession,MRN,Sign off Rad,Exam Result,Date,labels
+16851023.0,N000861996,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -19,8 +19,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Left lobe nodule.
 
-The reader is referred to the pathology report for further details.",2021-02-23
-BCH,Outpatient,23/02/2021 9:38,23/02/2021 11:24,23/02/2021 11:24,23/02/2021 11:38,US,7893.0,ASPIRATION - THYROID,US,16851107.0,N000444488,0NX065151/20,4484311693-VC,29/01/1972,49.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-02-23,1
+16851107.0,N000444488,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -40,8 +40,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Nodule in the left lobe.
 
-The reader is referred to the pathology report for further details.",2021-02-23
-BCH,Outpatient,23/02/2021 10:20,23/02/2021 11:32,23/02/2021 11:32,23/02/2021 11:36,US,7893.0,ASPIRATION - THYROID,US,16851388.0,N000923373,0NX065170/20,4047131604-PX,05/09/1982,39.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-02-23,1
+16851388.0,N000923373,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -63,8 +63,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
 The reader is referred to the pathology report for further details.
 
-Yellow flag initiated",2021-02-23
-BCH,Outpatient,24/02/2021 9:37,24/02/2021 11:54,24/02/2021 11:54,24/02/2021 13:41,US,7893.0,ASPIRATION - THYROID,US,16854532.0,N000935827,0NX065423/20,6648820733-BK,12/02/1957,64.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+Yellow flag initiated",2021-02-23,1
+16854532.0,N000935827,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the left lobe inferior pole lobe referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed, using capillary technique. 1% local anesthesia was used
 
@@ -76,15 +76,15 @@ The dominant lesion in the left parotid gland was also biopsied as arranged.
 
 Conclusion: Thyroid FNA as described.
 
-Left parotid mass biopsy as described.",2021-02-24
-BCH,Outpatient,24/02/2021 10:35,24/02/2021 11:54,24/02/2021 11:54,24/02/2021 13:59,US,7893.0,ASPIRATION - THYROID,US,16854824.0,N000504684,0NX065454/20,4707148401-PV,02/11/1963,58.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+Left parotid mass biopsy as described.",2021-02-24,2
+16854824.0,N000504684,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the left lobe lobe referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed, using capillary technique. 1% Xylocaine local anesthesia was used.
 
 Samples were submitted to pathology. The patient tolerated the procedure well and there were no immediate complications..
 
-Conclusion: Thyroid FNA as described.",2021-02-24
-BCH,Outpatient,25/02/2021 9:48,25/02/2021 10:30,25/02/2021 10:30,25/02/2021 10:37,US,7893.0,ASPIRATION - THYROID,US,16857578.0,N000318867,0NX065677/20,8098812772-LD,11/11/1972,49.0,60.55,94.6,SEGAL,".
+Conclusion: Thyroid FNA as described.",2021-02-24,1
+16857578.0,N000318867,SEGAL,".
 
 FNA BIOPSY OF THYROID
 
@@ -106,13 +106,13 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Right interpolar thyroid nodule.
 
-The reader is referred to the pathology report for further details.",2021-02-25
-BCH,Outpatient,26/02/2021 9:22,26/02/2021 10:29,26/02/2021 10:29,26/02/2021 11:37,US,7893.0,ASPIRATION - THYROID,US,16860407.0,N000641878,0NX065944/20,8326318063-EX,05/11/1947,74.0,60.55,94.6,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the interpolar region of left thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
+The reader is referred to the pathology report for further details.",2021-02-25,1
+16860407.0,N000641878,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the interpolar region of left thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
 
 INTERPRETATION:
 
-Successful ultrasound-guided FNA biopsy of thyroid nodule in the interpolar region left thyroid lobe.",2021-02-26
-BCH,Outpatient,01/03/2021 9:54,01/03/2021 10:43,01/03/2021 10:43,01/03/2021 12:55,US,7893.0,ASPIRATION - THYROID,US,16866790.0,N000022608,0NX066494/20,1154364275-YR,14/03/1947,74.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+Successful ultrasound-guided FNA biopsy of thyroid nodule in the interpolar region left thyroid lobe.",2021-02-26,1
+16866790.0,N000022608,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -132,22 +132,22 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Ti-Rads 4 nodule lower pole right lobe.
 
-The reader is referred to the pathology report for further details.",2021-01-03
-BCH,Outpatient,02/03/2021 9:22,02/03/2021 10:17,02/03/2021 10:18,02/03/2021 11:15,US,7893.0,ASPIRATION - THYROID,US,16869748.0,N000097426,0NX066758/20,2517424947-DX,01/03/1976,45.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+The reader is referred to the pathology report for further details.",2021-01-03,1
+16869748.0,N000097426,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the right lobe referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed, using capillary technique.
 
 Samples were submitted to pathology. The patient tolerated the procedure well and there were no immediate complications..
 
-Conclusion: Thyroid FNA as described.",2021-02-03
-BCH,Outpatient,02/03/2021 9:55,02/03/2021 10:47,02/03/2021 10:47,02/03/2021 11:51,US,7893.0,ASPIRATION - THYROID,US,16869893.0,N000735292,0NX066776/20,4584386256-KX,05/02/1958,63.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+Conclusion: Thyroid FNA as described.",2021-02-03,1
+16869893.0,N000735292,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the right lobe referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed, using capillary technique.
 
 Samples were submitted to pathology. The patient tolerated the procedure well and there were no immediate complications..
 
-Conclusion: Thyroid FNA as described.",2021-02-03
-BCH,Outpatient,03/03/2021 8:04,03/03/2021 10:56,03/03/2021 10:56,03/03/2021 13:10,US,7893.0,ASPIRATION - THYROID,US,16872499.0,N000353199,0NX066997/20,1384457469-VL,09/02/1962,59.0,60.55,94.6,SEGAL,".
+Conclusion: Thyroid FNA as described.",2021-02-03,1
+16872499.0,N000353199,SEGAL,".
 
 FNA BIOPSY OF THYROID
 
@@ -169,8 +169,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Left interpolar thyroid nodule.
 
-The reader is referred to the pathology report for further details.",2021-03-03
-BCH,Outpatient,03/03/2021 9:18,03/03/2021 11:32,03/03/2021 11:32,03/03/2021 13:02,US,7893.0,ASPIRATION - THYROID,US,16872780.0,N000347913,0NX067021/20,6764114168-VN,30/05/1953,68.0,60.55,94.6,SEGAL,".
+The reader is referred to the pathology report for further details.",2021-03-03,1
+16872780.0,N000347913,SEGAL,".
 
 FNA BIOPSY OF THYROID
 
@@ -194,8 +194,8 @@ Technically successful FNA ultrasound-guided biopsy of:
  Right and left thyroid nodules.
 Given the technical challenges of biopsying the left nodule, if the biopsy results are again indeterminant/nondiagnostic, recommend follow-up ultrasound in 6-12 months to reassess.
 
-The reader is referred to the pathology report for further details.",2021-03-03
-BCH,Outpatient,03/03/2021 9:24,03/03/2021 10:54,03/03/2021 10:54,03/03/2021 12:56,US,7893.0,ASPIRATION - THYROID,US,16872805.0,N000643085,0NX067024/20,8588170152-DT,27/06/1952,69.0,60.55,94.6,SEGAL,".
+The reader is referred to the pathology report for further details.",2021-03-03,2
+16872805.0,N000643085,SEGAL,".
 
 FNA BIOPSY OF THYROID
 
@@ -217,8 +217,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Left mid pole nodule
 
-The reader is referred to the pathology report for further details.",2021-03-03
-BCH,Outpatient,03/03/2021 9:42,03/03/2021 11:26,03/03/2021 11:26,03/03/2021 12:59,US,7893.0,ASPIRATION - THYROID,US,16872867.0,N000339443,0NX067032/20,5837212280-NF,18/02/1966,55.0,60.55,94.6,SEGAL,".
+The reader is referred to the pathology report for further details.",2021-03-03,
+16872867.0,N000339443,SEGAL,".
 
 FNA BIOPSY OF THYROID
 
@@ -240,8 +240,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Right thyroid nodule
 
-The reader is referred to the pathology report for further details.",2021-03-03
-BCH,Outpatient,04/03/2021 9:20,04/03/2021 10:50,04/03/2021 10:50,04/03/2021 10:52,US,7893.0,ASPIRATION - THYROID,US,16875829.0,N000221289,0NX067311/20,3800902730-GT,09/09/1968,53.0,60.55,94.6,LAYTON,"HISTORY: FNA of a nodule in the left thyroid lobe
+The reader is referred to the pathology report for further details.",2021-03-03,
+16875829.0,N000221289,LAYTON,"HISTORY: FNA of a nodule in the left thyroid lobe
 
 COMPARISON STUDY: No relevant previous at our institution
 
@@ -255,8 +255,8 @@ Thereafter, under direct ultrasound guidance, three 25-gauge needles were advanc
 
 Aspirate was sent for cytological analysis.
 
-Patient tolerated the procedure well and there were no complications encountered.",2021-04-03
-BCH,Outpatient,04/03/2021 9:27,04/03/2021 10:56,04/03/2021 10:58,04/03/2021 11:01,US,7893.0,ASPIRATION - THYROID,US,16875883.0,N000517676,0NX067318/20,,30/06/1951,70.0,60.55,94.6,LAYTON,"HISTORY: FNA of a nodule in the right thyroid lobe
+Patient tolerated the procedure well and there were no complications encountered.",2021-04-03,
+16875883.0,N000517676,LAYTON,"HISTORY: FNA of a nodule in the right thyroid lobe
 
 COMPARISON STUDY: Ultrasound 5/2/2021
 
@@ -270,8 +270,8 @@ Thereafter, under direct ultrasound guidance, three 25-gauge needles were advanc
 
 Aspirate was sent for cytological analysis.
 
-Patient tolerated the procedure well and there were no complications encountered.",2021-04-03
-BCH,Outpatient,04/03/2021 9:47,04/03/2021 10:46,04/03/2021 10:46,04/03/2021 10:50,US,7893.0,ASPIRATION - THYROID,US,16875989.0,N000112504,0NX067324/20,5756640172-ME,28/09/1935,86.0,60.55,94.6,LAYTON,"HISTORY: FNA of a nodule in the right thyroid lobe
+Patient tolerated the procedure well and there were no complications encountered.",2021-04-03,
+16875989.0,N000112504,LAYTON,"HISTORY: FNA of a nodule in the right thyroid lobe
 
 COMPARISON STUDY: Ultrasound 25/2/2021
 
@@ -285,8 +285,8 @@ Thereafter, under direct ultrasound guidance, three 25-gauge needles were advanc
 
 Aspirate was sent for cytological analysis.
 
-Patient tolerated the procedure well and there were no complications encountered.",2021-04-03
-BCH,Outpatient,04/03/2021 10:18,04/03/2021 11:50,04/03/2021 11:50,04/03/2021 14:59,US,7893.0,ASPIRATION - THYROID,US,16876108.0,N000940161,0NX067350/20,9865326400-JL,11/12/1980,41.0,60.55,94.6,LAYTON,"HISTORY: FNA of a solid mass in the right thyroid lobe.
+Patient tolerated the procedure well and there were no complications encountered.",2021-04-03,
+16876108.0,N000940161,LAYTON,"HISTORY: FNA of a solid mass in the right thyroid lobe.
 
 COMPARISON STUDY: Ultrasound 24/2/2021
 
@@ -298,13 +298,13 @@ The skin overlying the solid mass in the right thyroid lobe was cleaned and drap
 
 Aspirate was sent for cytological analysis.
 
-Patient tolerated the procedure well and there were no complications encountered.",2021-04-03
-BCH,Outpatient,05/03/2021 9:26,05/03/2021 10:38,05/03/2021 10:38,05/03/2021 11:44,US,7893.0,ASPIRATION - THYROID,US,16878819.0,N000082796,0NX067640/20,,07/04/1973,48.0,60.55,94.6,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the lower pole right thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
+Patient tolerated the procedure well and there were no complications encountered.",2021-04-03,
+16878819.0,N000082796,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the lower pole right thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
 
 INTERPRETATION:
 
-Successful ultrasound-guided FNA biopsy of thyroid nodule in the lower pole right thyroid lobe.",2021-05-03
-BCH,Outpatient,05/03/2021 9:53,05/03/2021 9:53,05/03/2021 9:53,10/03/2021 17:29,US,7076.0,ASP-ADD SITE,US,16878950.0,N000626845,0NX067623/20,5560667650-XL,14/10/1977,44.0,0.0,0.0,KWAN,"******** ADDENDUM #1 ********
+Successful ultrasound-guided FNA biopsy of thyroid nodule in the lower pole right thyroid lobe.",2021-05-03,
+16878950.0,N000626845,KWAN,"******** ADDENDUM #1 ********
 CYTOLOGY REPORT:
 
 Left breast: FN21-290
@@ -338,15 +338,15 @@ The right cyst was then aspirated with the same technique. 4 mL of similar turbi
 
 The patient tolerated the procedure well with no immediate complications.
 
-IMPRESSION: Bilateral breast cysts, aspirated with sonographic guidance as described.",2021-05-03
-BCH,Outpatient,05/03/2021 10:29,05/03/2021 11:34,05/03/2021 11:34,05/03/2021 11:48,US,7893.0,ASPIRATION - THYROID,US,16879059.0,N000938478,0NX067678/20,4682130689-CE,15/12/1978,43.0,60.55,94.6,KURTZ,"CLINICAL HISTORY: Near anechoic lesion at far lateral lower right cervical region for ultrasound guided core biopsy.
+IMPRESSION: Bilateral breast cysts, aspirated with sonographic guidance as described.",2021-05-03,
+16879059.0,N000938478,KURTZ,"CLINICAL HISTORY: Near anechoic lesion at far lateral lower right cervical region for ultrasound guided core biopsy.
 
 PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the far lateral lower right cervical region was targeted. Following anesthetization of the skin and subcutaneous tissues using 3-4 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
 
 INTERPRETATION:
 
-Successful ultrasound-guided FNA biopsy of nodule at the far lateral lower right cervical region.",2021-05-03
-BCH,Outpatient,08/03/2021 9:48,08/03/2021 11:42,08/03/2021 11:42,08/03/2021 11:54,US,7893.0,ASPIRATION - THYROID,US,16885023.0,N000208352,0NX068208/20,6985888723-DF,20/08/1967,54.0,60.55,94.6,GANGULI,"Thyroid biopsy right lobe medially [TR 5].. Nodule
+Successful ultrasound-guided FNA biopsy of nodule at the far lateral lower right cervical region.",2021-05-03,
+16885023.0,N000208352,GANGULI,"Thyroid biopsy right lobe medially [TR 5].. Nodule
 
 After informed consent was obtained explaining the risk of bleeding infection.
 
@@ -355,8 +355,8 @@ Skin was prepped and draped. 1% Xylocaine infiltrated into the skin.
 
 Using ultrasound guidance the heterogeneous nodule in the right mid pole medially was biopsied 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications",2021-08-03
-BCH,Outpatient,08/03/2021 10:16,08/03/2021 11:40,08/03/2021 11:40,08/03/2021 11:56,US,7893.0,ASPIRATION - THYROID,US,16885138.0,N000939903,0NX068223/20,,04/03/1973,48.0,60.55,94.6,GANGULI,"Thyroid biopsy right isthmic nodule TR 4
+There are no immediate complications",2021-08-03,
+16885138.0,N000939903,GANGULI,"Thyroid biopsy right isthmic nodule TR 4
 
 After informed consent was obtained explaining the risk of bleeding infection.. Skin was prepped and draped.
 
@@ -364,8 +364,8 @@ After informed consent was obtained explaining the risk of bleeding infection.. 
 
 Using ultrasound guidance the echogenic nodule in the TR 4 isthmic lesion was biopsied 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications",2021-08-03
-BCH,Outpatient,09/03/2021 9:05,09/03/2021 10:44,09/03/2021 10:44,12/03/2021 13:26,US,7893.0,ASPIRATION - THYROID,US,16888031.0,N000331906,0NX068509/20,7956336809-TW,10/11/1977,44.0,60.55,94.6,GANGULI,"******** ADDENDUM #1 ********
+There are no immediate complications",2021-08-03,
+16888031.0,N000331906,GANGULI,"******** ADDENDUM #1 ********
 Cytology report reviewed and compared to the nodule biopsied left lobe. The cytology report for this nodule is consistent with benign thyroid tissue.
 
 PATHOLOGY
@@ -393,8 +393,8 @@ After informed consent was obtained explaining the risk of bleeding infection. T
 
 Using ultrasound guidance the echogenic nodule in the left TR 4 nodule was biopsied, 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications",2021-09-03
-BCH,Outpatient,09/03/2021 9:42,09/03/2021 10:47,09/03/2021 10:47,12/03/2021 13:21,US,7893.0,ASPIRATION - THYROID,US,16888160.0,N000617026,0NX068528/20,4936681388-VV,04/05/1966,55.0,60.55,94.6,GANGULI,"******** ADDENDUM #1 ********
+There are no immediate complications",2021-09-03,
+16888160.0,N000617026,GANGULI,"******** ADDENDUM #1 ********
 The cytology report was reviewed against the cystic nodule biopsied in the right lower pole.. The aspiration biopsy is nondiagnostic due to insufficient number of follicles cells. Which is expected since this nodule is cystic.. This would be considered TR 2 nodule rather than TR 3   nodule since its predominantly cystic nodule rather than solid...
 
 Repeat biopsy is not recommended.
@@ -406,15 +406,15 @@ After informed consent was obtained explaining the risk of bleeding infection.
 
 Using ultrasound guidance primarily cystic nodule lower pole right was biopsied 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications.",2021-09-03
-BCH,Outpatient,10/03/2021 9:56,10/03/2021 12:06,10/03/2021 12:06,10/03/2021 12:19,US,7893.0,ASPIRATION - THYROID,US,16891436.0,N000178878,0NX068815/20,4357638842-NP,18/04/1966,55.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+There are no immediate complications.",2021-09-03,
+16891436.0,N000178878,FITZGERALD,"FNA BIOPSY OF THYROID
 
  The isoechoic nodule in the lower pole of the right lobe of the thyroid gland was aspirated under sonographic control. This patient has a very poor tolerance for the procedure. This was due more to extreme anxiety than pain. There were no immediate complications. 3 passes were performed.
 
 The second lesion identified exophytic at the lower pole right thyroid appears vascular and deep closely related to the right carotid space vessels. On some images it has the appearance of a blood vessel. It was not aspirated. I note the patient has a biochemical diagnosis of hyperparathyroidism. Recommend the patient proceed to an isotope study for localization.
 
-The reader is referred to the pathology report for further details.",2021-10-03
-BCH,Outpatient,10/03/2021 10:41,10/03/2021 12:02,10/03/2021 12:03,10/03/2021 12:20,US,7893.0,ASPIRATION - THYROID,US,16891651.0,N000197308,0NX068836/20,,06/04/1977,44.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-10-03,
+16891651.0,N000197308,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -434,8 +434,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Nodule in the left lobe.
 
-The reader is referred to the pathology report for further details.",2021-10-03
-BCH,Outpatient,11/03/2021 9:16,11/03/2021 11:24,11/03/2021 11:24,11/03/2021 12:14,US,7893.0,ASPIRATION - THYROID,US,16894480.0,N000196437,0NX069122/20,2948030792-CJ,15/09/1959,62.0,60.55,94.6,SHEEHAN,"Request was made for aspiration of leftNodule dimensions: 23 x 14 x 17 mm
+The reader is referred to the pathology report for further details.",2021-10-03,
+16894480.0,N000196437,SHEEHAN,"Request was made for aspiration of leftNodule dimensions: 23 x 14 x 17 mm
 ACR TIRAD's risk category: TR 4 (4-6 points)
 
 Reason for biopsy:meets ACR Tirads criteria
@@ -444,8 +444,8 @@ Informed consent was obtained including explanation of risks including bleeding 
 
 Following this, fine needle aspiration was performed
 
-The patient tolerated the procedure well and there were no immediate complications.",2021-11-03
-BCH,Outpatient,11/03/2021 9:14,11/03/2021 10:10,11/03/2021 10:10,11/03/2021 12:25,US,7893.0,ASPIRATION - THYROID,US,16894489.0,N000688461,0NX069117/20,8771000133-FG,11/05/1963,58.0,60.55,94.6,SHEEHAN,"Request was made for aspiration of right mid poleNodule dimensions: 22 x 18 x 17 mm
+The patient tolerated the procedure well and there were no immediate complications.",2021-11-03,
+16894489.0,N000688461,SHEEHAN,"Request was made for aspiration of right mid poleNodule dimensions: 22 x 18 x 17 mm
 ACR TIRAD's risk category: TR 4 (4-6 points)
 
 Reason for biopsy:meets ACR Tirads criteria
@@ -454,8 +454,8 @@ Informed consent was obtained including explanation of risks including bleeding 
 
 Following this, fine needle aspiration was performed
 
-The patient tolerated the procedure well and there were no immediate complications.",2021-11-03
-BCH,Outpatient,11/03/2021 9:49,11/03/2021 10:41,11/03/2021 10:41,11/03/2021 12:26,US,7893.0,ASPIRATION - THYROID,US,16894625.0,N000304959,0NX069141/20,,06/11/1980,41.0,60.55,94.6,SHEEHAN,"Request was made for aspiration of right exophyticNodule dimensions: 31 x 24 x 16 mm. Note this may be an exophytic thyroid nodule TR 4 or a parathyroid nodule
+The patient tolerated the procedure well and there were no immediate complications.",2021-11-03,
+16894625.0,N000304959,SHEEHAN,"Request was made for aspiration of right exophyticNodule dimensions: 31 x 24 x 16 mm. Note this may be an exophytic thyroid nodule TR 4 or a parathyroid nodule
 ACR TIRAD's risk category: TR 4 (4-6 points)
 
 Reason for biopsy:meets ACR Tirads criteria
@@ -466,8 +466,8 @@ Following this, fine needle aspiration was performed
 
 The patient tolerated the procedure well and there were no immediate complications.
 
-Note: Query thyroid nodule versus parathyroid adenoma",2021-11-03
-BCH,Outpatient,11/03/2021 10:34,11/03/2021 11:26,11/03/2021 11:26,11/03/2021 12:15,US,7893.0,ASPIRATION - THYROID,US,16894825.0,N000940213,0NX069164/20,6278883027-DN,18/03/1984,37.0,60.55,94.6,SHEEHAN,"Request was made for aspiration of rightNodule dimensions: 17 x 9 x 9 mm
+Note: Query thyroid nodule versus parathyroid adenoma",2021-11-03,
+16894825.0,N000940213,SHEEHAN,"Request was made for aspiration of rightNodule dimensions: 17 x 9 x 9 mm
 ACR TIRAD's risk category: TR 4 (4-6 points)
 
 Reason for biopsy:meets ACR Tirads criteria
@@ -476,20 +476,20 @@ Informed consent was obtained including explanation of risks including bleeding 
 
 Following this, fine needle aspiration was performed
 
-The patient tolerated the procedure well and there were no immediate complications.",2021-11-03
-BCH,Outpatient,12/03/2021 8:30,12/03/2021 9:56,12/03/2021 9:56,12/03/2021 12:36,US,7893.0,ASPIRATION - THYROID,US,16897451.0,N000057695,0NX069411/20,6150675715-WB,26/09/1944,77.0,60.55,94.6,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the posterior aspect of lower pole left thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
+The patient tolerated the procedure well and there were no immediate complications.",2021-11-03,
+16897451.0,N000057695,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the posterior aspect of lower pole left thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
 
 INTERPRETATION:
 
-Successful ultrasound-guided FNA biopsy of thyroid nodule in the posterior aspect of left thyroid lobe. The biopsy was technically challenging due to its deep location.",2021-12-03
-BCH,Outpatient,12/03/2021 10:00,12/03/2021 11:17,12/03/2021 11:17,12/03/2021 12:37,US,7893.0,ASPIRATION - THYROID,US,16897765.0,N000281058,0NX069461/20,5912397543-PY,15/06/1967,54.0,60.55,94.6,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the interpolar region of left thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
+Successful ultrasound-guided FNA biopsy of thyroid nodule in the posterior aspect of left thyroid lobe. The biopsy was technically challenging due to its deep location.",2021-12-03,
+16897765.0,N000281058,KURTZ,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the interpolar region of left thyroid lobe was targeted. Following anesthetization of the skin and subcutaneous tissues using 1-2 mL of 1% plain lidocaine, a total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
 
 Of note, the left isthmus nodule was not biopsied as requested because biopsy of this nodule was performed January 13, 2020 with pathology results demonstrating benign nodule. The size and appearance of this nodule is unchanged since that time.
 
 INTERPRETATION:
 
-Successful ultrasound-guided FNA biopsy of thyroid nodule in the interpolar region of left thyroid lobe.",2021-12-03
-BCH,Outpatient,15/03/2021 8:52,15/03/2021 9:36,15/03/2021 9:36,21/03/2021 8:40,US,7893.0,ASPIRATION - THYROID,US,16903342.0,N000852580,0NX069995/20,9698864007-VM,13/06/1981,40.0,60.55,94.6,GANGULI,"******** ADDENDUM #1 ********
+Successful ultrasound-guided FNA biopsy of thyroid nodule in the interpolar region of left thyroid lobe.",2021-12-03,
+16903342.0,N000852580,GANGULI,"******** ADDENDUM #1 ********
 PATHOLOGY
 [Pathology report. Left lobe TR 3 nodule lower pole: Benign thyroid tissue
 Pathology concordance:
@@ -509,8 +509,8 @@ After informed consent was obtained explaining the risk of bleeding infection.
 
 Using ultrasound guidance the TR 3 nodule left lower pole was biopsied 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications",2021-03-15
-BCH,Outpatient,15/03/2021 9:40,15/03/2021 10:11,15/03/2021 10:11,21/03/2021 8:34,US,7893.0,ASPIRATION - THYROID,US,16903486.0,N000433034,0NX070024/20,1178727218-RX,10/06/1952,69.0,60.55,94.6,GANGULI,"******** ADDENDUM #1 ********
+There are no immediate complications",2021-03-15,
+16903486.0,N000433034,GANGULI,"******** ADDENDUM #1 ********
 PATHOLOGY
 Isthmic nodule. Benign thyroid tissue
 
@@ -538,8 +538,8 @@ Skin was prepped and draped. 1% Xylocaine was infiltrated in the skin.
 
 Using ultrasound guidance the TR 4 nodule near the isthmus towards the right was biopsied. 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications right. Isthmic nodule.",2021-03-15
-BCH,Outpatient,15/03/2021 9:44,15/03/2021 11:31,15/03/2021 11:32,21/03/2021 8:32,US,7893.0,ASPIRATION - THYROID,US,16903495.0,N000042489,0NX070022/20,,18/09/1942,79.0,60.55,94.6,GANGULI,"******** ADDENDUM #1 ********
+There are no immediate complications right. Isthmic nodule.",2021-03-15,
+16903495.0,N000042489,GANGULI,"******** ADDENDUM #1 ********
 PATHOLOGY
 [Pathology report: Right MID POLE NODULE TR 4: Nondiagnostic insufficient number of follicular cells.
 
@@ -576,8 +576,8 @@ After informed consent was obtained explaining the risk of bleeding infection.
 Using ultrasound guidance mid pole nodule TR 4 was biopsied 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 Using ultrasound guidance lower pole nodule TR 4 was biopsied 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications",2021-03-15
-BCH,Outpatient,15/03/2021 10:11,15/03/2021 11:15,15/03/2021 11:15,21/03/2021 8:37,US,7893.0,ASPIRATION - THYROID,US,16903580.0,N000104033,0NX070036/20,4419795192-NH,17/05/1950,71.0,60.55,94.6,GANGULI,"******** ADDENDUM #1 ********
+There are no immediate complications",2021-03-15,
+16903580.0,N000104033,GANGULI,"******** ADDENDUM #1 ********
 PATHOLOGY
 Left lobe of TR 3 nodule.: Pathology: Benign thyroid tissue:
  Pathology is concordant with sonographic findings.
@@ -597,41 +597,41 @@ After informed consent was obtained explaining the risk of bleeding infection.
 
 Using ultrasound guidance TR 3 nodule lower pole was biopsied 3 passes were made through this nodule with a 25-gauge needle and sent for cytology.
 
-There are no immediate complications",2021-03-15
-BCH,Outpatient,16/03/2021 8:17,16/03/2021 11:26,16/03/2021 11:26,16/03/2021 14:54,US,7893.0,ASPIRATION - THYROID,US,16906185.0,N000208352,0NX070260/20,6985888723-DF,20/08/1967,54.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+There are no immediate complications",2021-03-15,
+16906185.0,N000208352,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the right lobe medially lobe referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed, using capillary technique.
 
 Samples were submitted to pathology. The patient tolerated the procedure well and there were no immediate complications..
 
-Conclusion: Thyroid FNA as described.",2021-03-16
-BCH,Outpatient,16/03/2021 9:37,16/03/2021 11:19,16/03/2021 11:19,16/03/2021 14:53,US,7893.0,ASPIRATION - THYROID,US,16906491.0,N000135169,0NX070300/20,,30/06/1971,50.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+Conclusion: Thyroid FNA as described.",2021-03-16,
+16906491.0,N000135169,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the right lobe lower pole and upper pole referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed from each nodule, using capillary technique. 1% Xylocaine local anesthesia was used
 
 Samples were submitted to pathology. The patient tolerated the procedure well and there were no immediate complications..
 
-Conclusion: Thyroid FNA as described.",2021-03-16
-BCH,Outpatient,16/03/2021 9:41,16/03/2021 11:28,16/03/2021 11:28,16/03/2021 14:54,US,7893.0,ASPIRATION - THYROID,US,16906493.0,N000082492,0NX070303/20,2650071513-MX,14/05/1954,67.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+Conclusion: Thyroid FNA as described.",2021-03-16,
+16906493.0,N000082492,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the left lobe referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed, using capillary technique.
 
 Samples were submitted to pathology. The patient tolerated the procedure well and there were no immediate complications..
 
-Conclusion: Thyroid FNA as described.",2021-03-16
-BCH,Outpatient,16/03/2021 10:04,16/03/2021 10:58,16/03/2021 10:58,16/03/2021 14:50,US,7893.0,ASPIRATION - THYROID,US,16906640.0,N000626047,0NX070325/20,3069998114-TM,22/09/1952,69.0,60.55,94.6,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
+Conclusion: Thyroid FNA as described.",2021-03-16,
+16906640.0,N000626047,CARVALHO,"FINE-NEEDLE ASPIRATION THYROID NODULE
 
 PROCEDURE: Informed consent. Sterile technique. Under sonographic guidance, the nodule in the left lobe referred for biopsy was biopsied. 3 passes with a 25-gauge needle were performed, using capillary technique.
 
 Samples were submitted to pathology. The patient tolerated the procedure well and there were no immediate complications..
 
-Conclusion: Thyroid FNA as described.",2021-03-16
-BCH,Outpatient,17/03/2021 18:12,17/03/2021 11:18,17/03/2021 11:32,17/03/2021 18:39,US,7893.0,ASPIRATION - THYROID,US,16911071.0,N000941787,0NX070767/20,9753584854-CX,22/10/1989,32.0,60.55,94.6,BANDUKWALA,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the right midpole was targeted. A total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
+Conclusion: Thyroid FNA as described.",2021-03-16,
+16911071.0,N000941787,BANDUKWALA,"PROCEDURE NOTE AND FINDINGS: Informed consent was obtained following a thorough discussion of potential risks and complications. Using sonographic guidance and sterile technique, the nodule in the right midpole was targeted. A total of three 25 gauge FNA biopsies were obtained and sent to cytopathology. The patient tolerated the procedure well with no immediate complications.
 
 INTERPRETATION:
 
-Successful ultrasound-guided FNA biopsy of isoechoic nodule in the right midpole.",2021-03-17
-BCH,Outpatient,18/03/2021 9:35,18/03/2021 11:15,18/03/2021 11:16,18/03/2021 15:28,US,7893.0,ASPIRATION - THYROID,US,16912540.0,N000851028,0NX070886/20,5552553827-AC,02/09/1968,53.0,60.55,94.6,PEPPIN,"FNA BIOPSY OF THYROID
+Successful ultrasound-guided FNA biopsy of isoechoic nodule in the right midpole.",2021-03-17,
+16912540.0,N000851028,PEPPIN,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -653,8 +653,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
 2. The hypoechoic tissue in the expected location of the left lobe of thyroid (patient is status post left hemithyroidectomy many years ago in India). This tissue measures close to 2.8 cm in size. If it is thyroid tissue, it is technically a TR 4 nodule.
 
-The reader is referred to the pathology report for further details.",2021-03-18
-BCH,Outpatient,18/03/2021 10:43,18/03/2021 13:00,18/03/2021 13:00,18/03/2021 20:30,US,7893.0,ASPIRATION - THYROID,US,16912871.0,N000069162,0NX070932/20,4124583511-RW,07/03/1947,74.0,60.55,94.6,PEPPIN,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-03-18,
+16912871.0,N000069162,PEPPIN,"FNA BIOPSY OF THYROID
 
 HISTORY: Biopsy requested of 3 discrete nodules, 2 on the left and one on the right.
 
@@ -680,8 +680,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
 In any case, follow-up is recommended for the nodule which was not biopsied, bridging the isthmus and lower pole left lobe. A follow-up ultrasound in 6 months would be reasonable.
 
-The reader is referred to the pathology report for further details.",2021-03-18
-BCH,Outpatient,19/03/2021 9:33,19/03/2021 11:52,19/03/2021 11:52,19/03/2021 12:10,US,7893.0,ASPIRATION - THYROID,US,16915645.0,N000172396,0NX071181/20,6849562001-MB,24/11/1963,58.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-03-18,
+16915645.0,N000172396,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -701,8 +701,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Ti-Rads 5 nodule in the left lobe.
 
-The reader is referred to the pathology report for further details.",2021-03-19
-BCH,Outpatient,19/03/2021 9:31,19/03/2021 11:11,19/03/2021 11:11,19/03/2021 11:45,US,7893.0,ASPIRATION - THYROID,US,16915654.0,N000259829,0NX071179/20,3213126455-BX,21/04/1988,33.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-03-19,
+16915654.0,N000259829,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -722,8 +722,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Nodule in the left lobe, Ti-Rads 4
 
-The reader is referred to the pathology report for further details.",2021-03-19
-BCH,Outpatient,19/03/2021 10:07,19/03/2021 11:12,19/03/2021 11:12,19/03/2021 11:46,US,7893.0,ASPIRATION - THYROID,US,16915806.0,N000120202,0NX071201/20,2632471989-NR,13/01/1954,67.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-03-19,
+16915806.0,N000120202,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -743,8 +743,8 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Complex nodule in the right isthmus Ti-Rads 3
 
-The reader is referred to the pathology report for further details.",2021-03-19
-BCH,Outpatient,19/03/2021 10:17,19/03/2021 11:46,19/03/2021 11:46,19/03/2021 11:49,US,7893.0,ASPIRATION - THYROID,US,16915858.0,N000941762,0NX071206/20,4861499327-JN,12/01/1986,35.0,60.55,94.6,FITZGERALD,"FNA BIOPSY OF THYROID
+The reader is referred to the pathology report for further details.",2021-03-19,
+16915858.0,N000941762,FITZGERALD,"FNA BIOPSY OF THYROID
 
 HISTORY: Request for thyroid nodule biopsy.
 
@@ -764,4 +764,4 @@ Technically successful FNA ultrasound-guided biopsy of:
 
  Ill-defined nodule in the left lobe
 
-The reader is referred to the pathology report for further details.",2021-03-19
+The reader is referred to the pathology report for further details.",2021-03-19,
